@@ -1,1 +1,3 @@
-# Este archivo indica a Python que la carpeta blog/ es un paquete.
+# Paquete blog: modelos, datos, menu, operaciones y validaciones
+# Curso de Python - Coderhouse
+# Autor: Armando Ismael
